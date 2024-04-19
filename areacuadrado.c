@@ -10,7 +10,7 @@ int main() {
     // Calcular el área del cuadrado
     area = lado * lado;
 
-    // Mostrar el resultado
+  
     printf("El área del cuadrado con lado %.2f es: %.2f\n", lado, area);
 
     return 0;
